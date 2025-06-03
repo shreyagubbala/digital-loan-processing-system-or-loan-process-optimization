@@ -11,16 +11,16 @@ Redesigned the loan application process for a fictional financial institution to
 - Data Dictionary for schema documentation
 - Final presentation with recommendations
 
-## 🛠️ Tools & Technologies
-- SQL (MySQL)
+# Tools & Technologies
+- SQL
 - Lucidchart
 - Microsoft PowerPoint
 - Figma
 
-## 📂 Project Structure
+# Project Structure
 - `/sql`: SQL files for schema and data
 - `/diagrams`: ERD and process flow diagrams
 - `data_dictionary.csv`: Structured field-level metadata
 
-## 📈 Outcome
+# Outcome
 Proposed digital workflow and data model improved document handling, reduced risk, and increased process visibility.
